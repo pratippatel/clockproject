@@ -1,0 +1,45 @@
+#tit{
+    font-style: italic;
+    font-family: cursive;
+    font-display: auto;
+    font-variant: small-caps;
+    font-size: 25px;
+    text-align: center;
+    font-feature-settings: normal;
+    color: brown;    
+}
+#belowtit{
+    text-align: center;
+    font-family: fantasy;
+    font-style: oblique;
+    font-variant-east-asian: normal;
+    color: darkblue;
+    font-stretch: expanded;
+    font-size: xx-large;
+}
+#wakeup{
+    position: absolute;
+    top: auto;
+    right: 33%;
+}
+#lunchtime{
+    position: absolute;
+    top: 600px;
+    right: 33%;
+}
+#naptime{
+    position: absolute;
+    top: 620px;
+    right: 33%;
+}
+#btn{
+    position: absolute;
+    top: 650px;
+    right:39%;
+}
+body{
+    background-color: darkorange;
+}
+#clock{
+    text-align: center;
+}
